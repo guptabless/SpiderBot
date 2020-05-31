@@ -1,5 +1,5 @@
 # SpiderBot
-
+This script crawls the links from the webpages provided by you.
 ## Requirment:
 
 ### packages 
